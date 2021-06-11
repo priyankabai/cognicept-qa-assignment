@@ -1,4 +1,6 @@
 # cognicept-qa-assignment
+Selenium :
+
 Added two files in the repository, namely  --  input.java and cognicepts.java
 
 **1. input.java**  --  The input details for user registeration should be added here
